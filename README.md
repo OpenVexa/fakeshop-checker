@@ -1,3 +1,4 @@
+Website: [https://openvexa.de](https://openvexa.de)
 # Fake-Shop Checker
 
 Das **Fake-Shop Checker**-Tool hilft Nutzern, Online-Shops auf mögliche Risiken und betrügerische Merkmale zu überprüfen. Mit einer Reihe von vordefinierten Fragen zur Überprüfung der Sicherheitsmerkmale, wie etwa SSL-Verschlüsselung, Impressum und Zahlungsmethoden, wird eine Risikobewertung für den Shop erstellt.
@@ -46,6 +47,5 @@ Beiträge, Feedback oder Ideen sind jederzeit willkommen!
 Erstelle einfach ein Issue oder sende einen Pull Request.
 
 ## 📩 Kontakt
-
-Website: [https://openvexa.de](https://openvexa.de)  
+ 
 E-Mail: info@openvexa.de
